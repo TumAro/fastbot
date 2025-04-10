@@ -1,0 +1,1 @@
+from fastbot.sensors.base import BaseSensor

@@ -1,0 +1,1 @@
+from fastbot.robots.base import Robot
